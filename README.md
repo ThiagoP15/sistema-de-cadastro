@@ -4,5 +4,4 @@
 
 Para rodar esse projeto na sua máquina, digite:
 
-npm init -y
-npm install nodemon 
+node app.js
